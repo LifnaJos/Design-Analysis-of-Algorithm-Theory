@@ -20,10 +20,12 @@
 Continuous Assessment best out 2 of 3 will be considered
 
 ## Module - 1 : Introduction to Design and Analysis of Algorithms (10 Hours)
-1.1 Performance analysis, space, and time complexity Growth of function, Big-Oh, Omega Theta notation Mathematical background for algorithm analysis;
-Analysis of selection sort, insertion sort.
-1.2 Recurrences: The substitution method, Recursion tree method, Master method
-1.3 Complexity Classes: Definition of P, NP, NP-Hard, NP-Complete
+- Performance analysis - space, and time complexity
+- Growth of function - Big-Oh, Omega & Theta notations
+- Mathematical background for algorithm analysis;
+- Analysis of selection sort, insertion sort.
+- Recurrences: The substitution method, Recursion tree method, Master method
+- Complexity Classes: Definition of P, NP, NP-Hard, NP-Complete
 
 - [Theory-PPT]
   - 
@@ -44,7 +46,12 @@ Analysis of selection sort, insertion sort.
 - Quiz : Module - 1 Quiz
 
 ## Module - 2: Divide and Conquer Strategy (06 Hours)
-2.1 General method, Min-Max Algorithm, Merge sort, Quick sort, Analysis of Binary search, Strassen's Matrix Multiplication.
+- General method,
+- Min-Max Algorithm,
+- Merge sort,
+- Quick sort,
+- Analysis of Binary search,
+- Strassen's Matrix Multiplication.
 
 - [Theory-PPT]
 - Online Resources :
@@ -52,8 +59,11 @@ Analysis of selection sort, insertion sort.
 - Quiz :  Module - 2 Quiz
 
 ## Module - 3 : Greedy Method Approach (06 Hours)
-3.1 General Method, Single source shortest path: Dijkstra Algorithm Fractional Knapsack problem, Job sequencing with deadlines, Minimum cost spanning
-trees: Kruskal and Prim’s algorithms
+- General Method,
+- Single source shortest path: Dijkstra Algorithm
+- Fractional Knapsack problem,
+- Job sequencing with deadlines,
+- Minimum cost spanning trees: Kruskal and Prim’s algorithms
 
 - [Theory-PPT]
 - Online Resources :
@@ -61,8 +71,14 @@ trees: Kruskal and Prim’s algorithms
 - Quiz :  Module - 3 Quiz
 
 ## Module - 4 : Dynamic Programming Approach (09 Hours)
-4.1 General Method, Multistage graphs, Single source shortest path: Bellman Ford Algorithm, All pair shortest path: Floyd Warshall Algorithm, Matrix Chain
-Multiplication, Longest common subsequence, Optimal Binary Search Trees, 0/1 knapsack Problem.
+- General Method,
+- Multistage graphs,
+- Single source shortest path: Bellman Ford Algorithm,
+- All pair shortest path: Floyd Warshall Algorithm,
+- Matrix Chain Multiplication,
+- Longest common subsequence,
+- Optimal Binary Search Trees,
+- 0/1 knapsack Problem.
 
 - [Theory-PPT]
 - Online Resources :
@@ -70,8 +86,13 @@ Multiplication, Longest common subsequence, Optimal Binary Search Trees, 0/1 kna
 - Quiz :  Module - 4 Quiz
 
 ## Module  - 5 :  Backtracking and Branch and bound (05 Hours)
-5.1 Backtracking: N-queen problem, Sum of subsets, Graph coloring 
-5.2 Branch and Bound: 15 Puzzle problem, Traveling Salesperson problem.
+- Backtracking:
+  - N-queen problem,
+  - Sum of subsets,
+  - Graph coloring 
+- Branch and Bound:
+  - 15 Puzzle problem,
+  - Traveling Salesperson problem.
 
 - [Theory-PPT]
 - Online Resources :
@@ -79,7 +100,9 @@ Multiplication, Longest common subsequence, Optimal Binary Search Trees, 0/1 kna
 - Quiz :  Module - 5 Quiz
  
 ## Module  - 6 : String Matching Algorithms (03 Hours)
-6.1 Naïve string-matching algorithm, Rabin Karp algorithm, Knuth-Morris-Pratt algorithm
+- Naïve string-matching algorithm,
+- Rabin Karp algorithm,
+- Knuth-Morris-Pratt algorithm
 
 - [Theory-PPT]
 - Online Resources :
