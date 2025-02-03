@@ -28,7 +28,7 @@ Continuous Assessment best out 2 of 3 will be considered
 - Complexity Classes: Definition of P, NP, NP-Hard, NP-Complete
 
 - [Theory-PPT]
-  - 
+  
 - Online Materials:
   - [Selection Sort](https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/tutorial/)
   - [Insertion Sort](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/tutorial/)
@@ -54,8 +54,9 @@ Continuous Assessment best out 2 of 3 will be considered
 - Strassen's Matrix Multiplication.
 
 - [Theory-PPT]
+  
 - Online Resources :
-  - 
+
 - Quiz :  Module - 2 Quiz
 
 ## Module - 3 : Greedy Method Approach (06 Hours)
@@ -66,8 +67,9 @@ Continuous Assessment best out 2 of 3 will be considered
 - Minimum cost spanning trees: Kruskal and Prim’s algorithms
 
 - [Theory-PPT]
+  
 - Online Resources :
-  - 
+
 - Quiz :  Module - 3 Quiz
 
 ## Module - 4 : Dynamic Programming Approach (09 Hours)
@@ -81,8 +83,9 @@ Continuous Assessment best out 2 of 3 will be considered
 - 0/1 knapsack Problem.
 
 - [Theory-PPT]
+  
 - Online Resources :
-  - 
+  
 - Quiz :  Module - 4 Quiz
 
 ## Module  - 5 :  Backtracking and Branch and bound (05 Hours)
@@ -95,8 +98,9 @@ Continuous Assessment best out 2 of 3 will be considered
   - Traveling Salesperson problem.
 
 - [Theory-PPT]
+  
 - Online Resources :
-  - 
+  
 - Quiz :  Module - 5 Quiz
  
 ## Module  - 6 : String Matching Algorithms (03 Hours)
@@ -105,6 +109,7 @@ Continuous Assessment best out 2 of 3 will be considered
 - Knuth-Morris-Pratt algorithm
 
 - [Theory-PPT]
+  
 - Online Resources :
   - 
 - Quiz :  Module - 6 Quiz
