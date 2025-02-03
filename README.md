@@ -1,6 +1,8 @@
 # Course : Design Analysis of Algorithm Theory (NCMPC41)
-- Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
-- [Lab and Theory - Syllabus Link](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/DAA-Theory-Lab.pdf)
+
+| Lab Instructor | Email-id | Syllabus | Attendance |
+| :-------------:| :--------: | :--------------: | :----------: |
+| [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/) | lifna.cs@ves.ac.in | [Theory & Lab Syllabus](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/DAA-Theory-Lab.pdf) | [Attendance](https://docs.google.com/spreadsheets/d/1qdbspRNGfbzNHzfXXdMmalw6g8hoVQUyvYxTU68-xjA/edit?usp=sharing) |
 
 ## [Design and Analysis of Algorithms Lab Instructions](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab)
 
