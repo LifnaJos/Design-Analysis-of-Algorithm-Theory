@@ -128,6 +128,7 @@ Continuous Assessment best out 2 of 3 will be considered
 2. https://swayam.gov.in/nd1_noc19_cs47/preview
 3. https://www.coursera.org/specializations/algorithms
 4. https://www.mooc-list.com/tags/algorithms
+5. [Stanford University](https://web.stanford.edu/class/archive/cs/cs161/cs161.1176/Lectures/)
 ## AI Tools
 5. [Algorithmia:](https://algorithmia.com/)
 6. [TensorFlow:](https://www.tensorflow.org/)
