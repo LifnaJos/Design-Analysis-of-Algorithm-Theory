@@ -29,7 +29,7 @@ Continuous Assessment best out 2 of 3 will be considered
 - Recurrences: The substitution method, Recursion tree method, Master method
 - Complexity Classes: Definition of P, NP, NP-Hard, NP-Complete
 
-- [Theory-PPT]
+- [Theory-PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M1_DAA-2024-25.pdf)
   
 - Online Materials:
   - [Selection Sort](https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/tutorial/)
