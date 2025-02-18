@@ -54,8 +54,7 @@ Continuous Assessment best out 2 of 3 will be considered
 - Quick sort,
 - Analysis of Binary search,
 - Strassen's Matrix Multiplication.
-
-- [Theory-PPT]
+- [Theory-PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M2_DAA.pdf)
   
 - Online Resources :
 
