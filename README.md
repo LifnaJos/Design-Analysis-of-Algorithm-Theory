@@ -117,7 +117,7 @@ Continuous Assessment best out 2 of 3 will be considered
 - Quiz :  Module - 6 Quiz
 
 ## Text Books & References :
-1. T. H. Cormen, C.E. Leiserson, R. L. Rivest, and C. Stein, “Introduction to algorithms”, 2nd Edition, PHI Publication 2005.
+1. [T. H. Cormen, C.E. Leiserson, R. L. Rivest, and C. Stein, “Introduction to algorithms”, 2nd Edition, PHI Publication 2005.](https://drive.google.com/file/d/0B3RHrbxFb7PfYjk4ZG01Z3lrbnc/view?resourcekey=0-aHyhqxUeXCNvRK3_QfNurg)
 2. Ellis Horowitz, Sartaj Sahni, S. Rajsekaran. “Fundamentals of computer algorithms',' University Press.
 3. Sanjoy Dasgupta, Christos Papadimitriou, Umesh Vazirani, “Algorithms”, Tata McGraw Hill Edition.
 4. S. K. Basu, “Design Methods and Analysis of Algorithm”, PHI.
