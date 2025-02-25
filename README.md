@@ -68,6 +68,7 @@ Continuous Assessment best out 2 of 3 will be considered
 - Online Resources :
   
   -- [Dijkstra's Algorithm Visualization](https://www.davbyjan.com/)
+  -- [Dijkstra Algo. Visualization - Prof. Galles](https://www.cs.usfca.edu/~galles/visualization/Dijkstra.html)
 
 - Quiz :  Module - 3 Quiz
 
