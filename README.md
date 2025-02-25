@@ -61,15 +61,13 @@ Continuous Assessment best out 2 of 3 will be considered
 - Quiz :  Module - 2 Quiz
 
 ## Module - 3 : Greedy Method Approach (06 Hours)
-- General Method,
-- Single source shortest path: Dijkstra Algorithm
-- Fractional Knapsack problem,
-- Job sequencing with deadlines,
-- Minimum cost spanning trees: Kruskal and Prim’s algorithms
+- General Method,Single source shortest path: Dijkstra Algorithm, Fractional Knapsack problem, Job sequencing with deadlines, Minimum cost spanning trees: Kruskal and Prim’s algorithms
 
 - [Theory-PPT]
   
 - Online Resources :
+  
+  -- [Dijkstra's Algorithm Visualization](https://www.davbyjan.com/)
 
 - Quiz :  Module - 3 Quiz
 
