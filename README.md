@@ -34,20 +34,15 @@ Continuous Assessment best out 2 of 3 will be considered
 **Online Materials:**
   - [Selection Sort](https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/tutorial/)
   - [Insertion Sort](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/tutorial/)
-  - [Merge Sort](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/tutorial/)
-  - [Quick Sort](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/tutorial/)
-
+    
 **Useful Links:**
   - [Comparison on Sorting Techniques - 1](https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/comparison-of-sorting-algorithms-compare1-18082c14f960abf3.png)
   - [Comparison on Sorting Techniques - 2](https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/comparison-of-sorting-algorithms-compare3-205baca859250562.png)
   - [Visualization of Sorting Techniques : ComparisonSort - Prof. Galles ](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
   - [Bucket Sort](https://learnersbucket.com/tutorials/algorithms/bucket-sort-algorithm/)
   - [Heap Sort](https://www.geeksforgeeks.org/heap-sort/)
-  - [quick sort](https://www.geeksforgeeks.org/quick-sort-algorithm/)
-
-**Quiz :**
-- [Quiz-1](https://www.interviewbit.com/daa-mcq/)
-- 
+  
+**[Quiz :](https://www.interviewbit.com/daa-mcq/)**
 
 ## Module - 2: Divide and Conquer Strategy (06 Hours)
 - General method,
@@ -56,23 +51,54 @@ Continuous Assessment best out 2 of 3 will be considered
 - Quick sort,
 - Analysis of Binary search,
 - Strassen's Matrix Multiplication.
-- [Theory-PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M2_DAA.pdf)
   
-- Online Resources :
+**[Theory-PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M2_DAA.pdf)**
 
-- Quiz :  Module - 2 Quiz
+**Online Resources :**
+- [Binary Search Visualization : algorithm-visualizer.org](https://algorithm-visualizer.org/branch-and-bound/binary-search)
+- [Quick Sort - Visualization : algorithm-visaulizer.org](https://algorithm-visualizer.org/divide-and-conquer/quicksort)
+- [Merge Sort - Visualization : algorithm-visualizer.org](https://algorithm-visualizer.org/divide-and-conquer/merge-sort)
+- [Merge Sort - HackerRank](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/tutorial/)
+- [Quick Sort - HackerRank](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/tutorial/)
+- [Merge Sort - IIIT Hyderabad Virtual Labs](https://ds1-iiith.vlabs.ac.in/exp/merge-sort/index.html)
+- [Quick Sort - IIIT Hyderabad Virtual Labs](https://ds1-iiith.vlabs.ac.in/exp/quick-sort/index.html)
+- [Starssens Matrix Multiplication](https://www.youtube.com/watch?v=0oJyNmEbS4w)
+ 
+**Quiz :**
+- [Sorting](https://www.sanfoundry.com/sorting-multiple-choice-questions-mcq/)
+- [Merge Sort](https://www.sanfoundry.com/merge-sort-multiple-choice-questions-answers-mcqs/)
+- [Quick Sort](https://www.sanfoundry.com/quicksort-multiple-choice-questions-answers-mcqs/)
+- [Binary Search - Quiz 1](https://www.sanfoundry.com/data-structure-questions-answers-binary-search-iterative/)
+- [Binary Search - Quiz 2](https://www.sanfoundry.com/data-structure-questions-answers-uniform-binary-search/)
+- [Starssens Matrix Multiplication](https://www.sanfoundry.com/matrix-multiplication-multiple-choice-questions-answers-mcqs/)
 
 ## Module - 3 : Greedy Method Approach (06 Hours)
-- General Method,Single source shortest path: Dijkstra Algorithm, Fractional Knapsack problem, Job sequencing with deadlines, Minimum cost spanning trees: Kruskal and Prim’s algorithms
+- General Method,
+- Single source shortest path: Dijkstra Algorithm,
+- Fractional Knapsack problem,
+- Job sequencing with deadlines,
+- Minimum cost spanning trees: Kruskal and Prim’s algorithms
 
-- [Theory-PPT]
+**[Theory-PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M3_DAA.pdf)**
   
-- Online Resources :
-  
-  -- [Dijkstra's Algorithm Visualization](https://www.davbyjan.com/)
-  -- [Dijkstra Algo. Visualization - Prof. Galles](https://www.cs.usfca.edu/~galles/visualization/Dijkstra.html)
+**Online Resources :**
+- [Fractional Knapsack](https://www.hello-algo.com/en/chapter_greedy/fractional_knapsack_problem/)
+- [Dijkstra's Algorithm Visualization - 1](https://www.davbyjan.com/)
+- [Dijkstra's Algorithm Visualization - 2 : algorithm-visualizer.org](https://algorithm-visualizer.org/greedy/dijkstras-shortest-path)
+- [Job Sequencing with Deadlines  Visaulization : algorithm-visaulizer.org](https://algorithm-visualizer.org/greedy/job-scheduling-problem)
+- [Kruskals Algorithm Visualiztion : algorithm-visualizer.org](https://algorithm-visualizer.org/greedy/kruskals-minimum-spanning-tree)
+- [Prims Algorithm Visualization : algorithm-visualizer.org](https://algorithm-visualizer.org/greedy/prims-minimum-spanning-tree)
+- [Dijkstra Algo. Visualization - Prof. Galles](https://www.cs.usfca.edu/~galles/visualization/Dijkstra.html)
+- [Minimum Spanning Trees - Virtual Labs](https://ds2-iiith.vlabs.ac.in/exp/min-spanning-trees/index.html)
 
-- Quiz :  Module - 3 Quiz
+**Quiz :**
+- [Greey algorithm](https://www.sanfoundry.com/greedy-algorithms-multiple-choice-questions-mcq/)
+- [Fractional Knapsack Problem](https://www.sanfoundry.com/fractional-knapsack-problem-multiple-choice-questions-answers-mcqs/)
+- [Job Sequencing with Deadlines](https://testbook.com/objective-questions/mcq-on-job-sequencing-with-deadline--5eea6a0c39140f30f369e0da)
+- [Dijakstra Single Source Shortest Path](https://www.sanfoundry.com/dijkstras-algorithm-multiple-choice-questions-answers-mcqs/)
+- [Minimum Spanning Tree - Quiz](https://www.sanfoundry.com/minimum-spanning-tree-multiple-choice-questions-answers-mcqs/)
+- [Kruskals Algorithm](https://www.sanfoundry.com/kruskals-algorithm-multiple-choice-questions-answers-mcqs/)
+- [Prims Algorithm](https://www.sanfoundry.com/prims-algorithm-multiple-choice-questions-answers-mcqs/)
 
 ## Module - 4 : Dynamic Programming Approach (09 Hours)
 - General Method,
@@ -86,9 +112,11 @@ Continuous Assessment best out 2 of 3 will be considered
 
 - [Theory-PPT]
   
-- Online Resources :
+**Online Resources :**
+- [0/1 Knapsack Problem Visuailzation](https://knapsack.masao.io/)
   
-- Quiz :  Module - 4 Quiz
+**Quiz :**
+- 
 
 ## Module  - 5 :  Backtracking and Branch and bound (05 Hours)
 - Backtracking:
