@@ -34,6 +34,8 @@ Continuous Assessment best out 2 of 3 will be considered
 **Online Materials:**
   - [Selection Sort](https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/tutorial/)
   - [Insertion Sort](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/tutorial/)
+  - [Insertion Sort Visualization : algorithm-visualize.org](https://algorithm-visualizer.org/brute-force/insertion-sort)
+  - [Selection Sort Visualization : algorithm-visualize.org](https://algorithm-visualizer.org/brute-force/selection-sort)
     
 **Useful Links:**
   - [Comparison on Sorting Techniques - 1](https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/comparison-of-sorting-algorithms-compare1-18082c14f960abf3.png)
@@ -139,11 +141,15 @@ Continuous Assessment best out 2 of 3 will be considered
 - Rabin Karp algorithm,
 - Knuth-Morris-Pratt algorithm
 
-- [Theory-PPT]
+[Theory-PPT]()
   
-- Online Resources :
-  - 
-- Quiz :  Module - 6 Quiz
+**Online Resources:**
+- [Rabin Karp String Matching Algorithm](https://algorithm-visualizer.org/brute-force/rabin-karps-string-search)
+- [Knuth Morris Pratt String Matching Algorithm](https://algorithm-visualizer.org/dynamic-programming/knuth-morris-pratts-string-search)
+ 
+**Quiz**
+- [Rabin Karp Algorithm](https://www.sanfoundry.com/rabin-karp-algorithm-multiple-choice-questions-answers-mcqs/)
+- 
 
 ## Text Books & References :
 1. [T. H. Cormen, C.E. Leiserson, R. L. Rivest, and C. Stein, “Introduction to algorithms”, 2nd Edition, PHI Publication 2005.](https://drive.google.com/file/d/0B3RHrbxFb7PfYjk4ZG01Z3lrbnc/view?resourcekey=0-aHyhqxUeXCNvRK3_QfNurg)
