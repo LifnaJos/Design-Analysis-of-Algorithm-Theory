@@ -144,8 +144,8 @@ Continuous Assessment best out 2 of 3 will be considered
 [Theory-PPT]()
   
 **Online Resources:**
-- [Rabin Karp String Matching Algorithm](https://algorithm-visualizer.org/brute-force/rabin-karps-string-search)
-- [Knuth Morris Pratt String Matching Algorithm](https://algorithm-visualizer.org/dynamic-programming/knuth-morris-pratts-string-search)
+- [Rabin Karp String Matching Algorithm Visualiztion : algorithm-visualizer.org](https://algorithm-visualizer.org/brute-force/rabin-karps-string-search)
+- [Knuth Morris Pratt String Matching Algorithm Visualiztion : algorithm-visualizer.org](https://algorithm-visualizer.org/dynamic-programming/knuth-morris-pratts-string-search)
  
 **Quiz**
 - [Rabin Karp Algorithm](https://www.sanfoundry.com/rabin-karp-algorithm-multiple-choice-questions-answers-mcqs/)
