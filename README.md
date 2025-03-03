@@ -29,15 +29,15 @@ Continuous Assessment best out 2 of 3 will be considered
 - Recurrences: The substitution method, Recursion tree method, Master method
 - Complexity Classes: Definition of P, NP, NP-Hard, NP-Complete
 
-- [Theory-PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M1_DAA-2024-25.pdf)
+**[Theory-PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M1_DAA-2024-25.pdf)**
   
-- Online Materials:
+**Online Materials:**
   - [Selection Sort](https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/tutorial/)
   - [Insertion Sort](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/tutorial/)
   - [Merge Sort](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/tutorial/)
   - [Quick Sort](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/tutorial/)
 
-- Useful Links:
+**Useful Links:**
   - [Comparison on Sorting Techniques - 1](https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/comparison-of-sorting-algorithms-compare1-18082c14f960abf3.png)
   - [Comparison on Sorting Techniques - 2](https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/comparison-of-sorting-algorithms-compare3-205baca859250562.png)
   - [Visualization of Sorting Techniques : ComparisonSort - Prof. Galles ](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
@@ -45,7 +45,9 @@ Continuous Assessment best out 2 of 3 will be considered
   - [Heap Sort](https://www.geeksforgeeks.org/heap-sort/)
   - [quick sort](https://www.geeksforgeeks.org/quick-sort-algorithm/)
 
-- Quiz : Module - 1 Quiz
+**Quiz :**
+- [Quiz-1](https://www.interviewbit.com/daa-mcq/)
+- 
 
 ## Module - 2: Divide and Conquer Strategy (06 Hours)
 - General method,
