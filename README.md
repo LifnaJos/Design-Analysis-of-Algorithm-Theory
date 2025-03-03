@@ -42,7 +42,8 @@ Continuous Assessment best out 2 of 3 will be considered
   - [Bucket Sort](https://learnersbucket.com/tutorials/algorithms/bucket-sort-algorithm/)
   - [Heap Sort](https://www.geeksforgeeks.org/heap-sort/)
   
-**[Quiz :](https://www.interviewbit.com/daa-mcq/)**
+**[Quiz :]**
+- [Algorithms](https://www.interviewbit.com/daa-mcq/)
 
 ## Module - 2: Divide and Conquer Strategy (06 Hours)
 - General method,
