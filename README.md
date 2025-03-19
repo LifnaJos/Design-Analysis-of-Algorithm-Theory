@@ -141,7 +141,7 @@ Continuous Assessment best out 2 of 3 will be considered
 - Rabin Karp algorithm,
 - Knuth-Morris-Pratt algorithm
 
-[Theory-PPT]()
+[Theory-PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M6_DAA.pdf)
   
 **Online Resources:**
 - [Rabin Karp String Matching Algorithm Visualiztion : algorithm-visualizer.org](https://algorithm-visualizer.org/brute-force/rabin-karps-string-search)
