@@ -117,7 +117,9 @@ Continuous Assessment best out 2 of 3 will be considered
   
 **Online Resources :**
 - [0/1 Knapsack Problem - Visuailzation](https://knapsack.masao.io/)
-- [Longest Common Subsequence - Visualization](https://algorithm-visualizer.org/dynamic-programming/longest-common-subsequence)
+- [Longest Common Subsequence - Visualization-1](https://algorithm-visualizer.org/dynamic-programming/longest-common-subsequence)
+- [Longest Common Subsequence - Visualization-2](https://lcs.netlify.app/)
+- [Longest Common Subsequence - Visualization-3](https://www.cs.usfca.edu/~galles/visualization/DPLCS.html)
   
 **Quiz :**
 - 
