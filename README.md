@@ -116,7 +116,8 @@ Continuous Assessment best out 2 of 3 will be considered
 - [Theory-PPT]
   
 **Online Resources :**
-- [0/1 Knapsack Problem Visuailzation](https://knapsack.masao.io/)
+- [0/1 Knapsack Problem - Visuailzation](https://knapsack.masao.io/)
+- [Longest Common Subsequence - Visualization](https://algorithm-visualizer.org/dynamic-programming/longest-common-subsequence)
   
 **Quiz :**
 - 
