@@ -11,7 +11,7 @@
 | No | Rubrics | Marks | Document / Schedule |
 | :--: | ------------------ | :----: |:----------: |
 | 1 | End Semester Exam | 60 Marks | [Old University Papers] , [Practice Problems] |
-| 2 | Internal Assessment | 20 Marks | [DAA-MT-QP-2025](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/DAA-SE-MT-QP-2024-25-CO-BT.pdf), [DAA-MT-QP-Sol-2025]()|
+| 2 | Internal Assessment | 20 Marks | [DAA-MT-QP-2025](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/DAA-SE-MT-QP-2024-25-CO-BT.pdf), [DAA-MT-QP-Sol-2025](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/DAA-SE-MT-QP-Key-2024-25.pdf)|
 | 3 | Continuous Assessment | 20 Marks | **Subjected to Revision after Internal Meeting** |
 |   | a. Virtual Lab  | 10 Marks | **29th Jan 2025** to **1st April 2025** |
 |   | b. MCQ | 10 Marks |  |
