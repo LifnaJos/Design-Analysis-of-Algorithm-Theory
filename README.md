@@ -40,7 +40,7 @@ Continuous Assessment best out 2 of 3 will be considered
 4. [Heap Sort ](https://ds1-iiith.vlabs.ac.in/exp/heap-sort/index.html)
 5. [Quick Sort](https://ds1-iiith.vlabs.ac.in/exp/quick-sort/index.html)
 
-## Module - 1 : Introduction to Design and Analysis of Algorithms (10 Hours)
+## Module - 1 : Introduction to Design and Analysis of Algorithms (10 Hours) [PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M1_DAA-2024-25.pdf)
 - Performance analysis - space, and time complexity
 - Growth of function - Big-Oh, Omega & Theta notations
 - Mathematical background for algorithm analysis;
@@ -48,8 +48,6 @@ Continuous Assessment best out 2 of 3 will be considered
 - Recurrences: The substitution method, Recursion tree method, Master method
 - Complexity Classes: Definition of P, NP, NP-Hard, NP-Complete
 
-**[Theory-PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M1_DAA-2024-25.pdf)**
-  
 **Online Materials:**
   - [Selection Sort](https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/tutorial/)
   - [Insertion Sort](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/tutorial/)
@@ -66,7 +64,7 @@ Continuous Assessment best out 2 of 3 will be considered
 **Quiz:**
 - [Algorithms](https://www.interviewbit.com/daa-mcq/)
 
-## Module - 2: Divide and Conquer Strategy (06 Hours)
+## Module - 2: Divide and Conquer Strategy (06 Hours)  [PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M2_DAA.pdf)
 - General method,
 - Min-Max Algorithm,
 - Merge sort,
@@ -74,8 +72,6 @@ Continuous Assessment best out 2 of 3 will be considered
 - Analysis of Binary search,
 - Strassen's Matrix Multiplication.
   
-**[Theory-PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M2_DAA.pdf)**
-
 **Online Resources :**
 - [Binary Search Visualization : algorithm-visualizer.org](https://algorithm-visualizer.org/branch-and-bound/binary-search)
 - [Quick Sort - Visualization : algorithm-visaulizer.org](https://algorithm-visualizer.org/divide-and-conquer/quicksort)
@@ -94,14 +90,12 @@ Continuous Assessment best out 2 of 3 will be considered
 - [Binary Search - Quiz 2](https://www.sanfoundry.com/data-structure-questions-answers-uniform-binary-search/)
 - [Starssens Matrix Multiplication](https://www.sanfoundry.com/matrix-multiplication-multiple-choice-questions-answers-mcqs/)
 
-## Module - 3 : Greedy Method Approach (06 Hours)
+## Module - 3 : Greedy Method Approach (06 Hours) [PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M3_DAA.pdf)
 - General Method,
 - Single source shortest path: Dijkstra Algorithm,
 - Fractional Knapsack problem,
 - Job sequencing with deadlines,
 - Minimum cost spanning trees: Kruskal and Prim’s algorithms
-
-**[Theory-PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M3_DAA.pdf)**
   
 **Online Resources :**
 - [Fractional Knapsack](https://www.hello-algo.com/en/chapter_greedy/fractional_knapsack_problem/)
@@ -122,7 +116,7 @@ Continuous Assessment best out 2 of 3 will be considered
 - [Kruskals Algorithm](https://www.sanfoundry.com/kruskals-algorithm-multiple-choice-questions-answers-mcqs/)
 - [Prims Algorithm](https://www.sanfoundry.com/prims-algorithm-multiple-choice-questions-answers-mcqs/)
 
-## Module - 4 : Dynamic Programming Approach (09 Hours)
+## Module - 4 : Dynamic Programming Approach (09 Hours) [PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M4_DAA.pdf)
 - General Method,
 - Multistage graphs,
 - Single source shortest path: Bellman Ford Algorithm,
@@ -132,8 +126,6 @@ Continuous Assessment best out 2 of 3 will be considered
 - Optimal Binary Search Trees,
 - 0/1 knapsack Problem.
 
-**[Theory-PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M4_DAA.pdf)**
-  
 **Online Resources :**
 - [0/1 Knapsack Problem - Visuailzation](https://knapsack.masao.io/)
 - [Longest Common Subsequence - Visualization-1](https://algorithm-visualizer.org/dynamic-programming/longest-common-subsequence)
@@ -141,9 +133,9 @@ Continuous Assessment best out 2 of 3 will be considered
 - [Longest Common Subsequence - Visualization-3](https://www.cs.usfca.edu/~galles/visualization/DPLCS.html)
   
 **Quiz :**
-- 
 
-## Module  - 5 :  Backtracking and Branch and bound (05 Hours)
+
+## Module  - 5 :  Backtracking and Branch and bound (05 Hours)  [PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M5_DAA.pdf)
 - Backtracking:
   - N-queen problem,
   - Sum of subsets,
@@ -152,19 +144,15 @@ Continuous Assessment best out 2 of 3 will be considered
   - 15 Puzzle problem,
   - Traveling Salesperson problem.
 
-**[Theory-PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M5_DAA.pdf)**
-  
 - Online Resources :
   
 - Quiz :  Module - 5 Quiz
  
-## Module  - 6 : String Matching Algorithms (03 Hours)
+## Module  - 6 : String Matching Algorithms (03 Hours)  [PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M6_DAA.pdf)
 - Naïve string-matching algorithm,
 - Rabin Karp algorithm,
 - Knuth-Morris-Pratt algorithm
 
-[Theory-PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M6_DAA.pdf)
-  
 **Online Resources:**
 - [Rabin Karp String Matching Algorithm Visualiztion : algorithm-visualizer.org](https://algorithm-visualizer.org/brute-force/rabin-karps-string-search)
 - [Knuth Morris Pratt String Matching Algorithm Visualiztion : algorithm-visualizer.org](https://algorithm-visualizer.org/dynamic-programming/knuth-morris-pratts-string-search)
