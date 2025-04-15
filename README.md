@@ -113,7 +113,7 @@ Continuous Assessment best out 2 of 3 will be considered
 - Optimal Binary Search Trees,
 - 0/1 knapsack Problem.
 
-- [Theory-PPT]
+**[Theory-PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M4_DAA.pdf)**
   
 **Online Resources :**
 - [0/1 Knapsack Problem - Visuailzation](https://knapsack.masao.io/)
