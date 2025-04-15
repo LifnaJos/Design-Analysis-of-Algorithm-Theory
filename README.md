@@ -13,13 +13,32 @@
 | 1 | End Semester Exam | 60 Marks | [Old University Papers] , [Practice Problems] |
 | 2 | Internal Assessment | 20 Marks | [DAA-MT-QP-2025], [DAA-MT-QP-Sol-2025]|
 | 3 | Continuous Assessment | 20 Marks | **Subjected to Revision after Internal Meeting** |
-|   | a. Virtual Lab  | 10 Marks |  |
+|   | a. Virtual Lab  | 10 Marks | **29th Jan 2025** to **1st April 2025** |
 |   | b. MCQ | 10 Marks |  |
-|   | c. Programming Test on HackerRank | 10 Marks | |
+|   | c. Programming Test on HackerRank | 10 Marks | DOP: **7th March 2025** to DOS**25th March 2025** |
 |   | Total Marks | 100 Marks | |
 
 #### Note : 
 Continuous Assessment best out 2 of 3 will be considered
+
+#### CA - 1 : HackerRank Programming Practice Set
+1. [Min Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)
+2. [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)
+3. [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true)
+4. [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true)
+5. [Staircase](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true)
+6. [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)
+7. [Apples and Oranges](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true)
+8. [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)
+9. [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true)
+10. [Breaking the records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true)
+
+#### CA - 2 : Virtual Lab on Sorting Techniques
+1. [Selection Sort](https://ds2-iiith.vlabs.ac.in/exp/selection-sort/index.html)
+2. [Bubble Sort](https://ds1-iiith.vlabs.ac.in/exp/bubble-sort/index.html)
+3. [Merge Sort](https://ds1-iiith.vlabs.ac.in/exp/merge-sort/index.html)
+4. [Heap Sort ](https://ds1-iiith.vlabs.ac.in/exp/heap-sort/index.html)
+5. [Quick Sort](https://ds1-iiith.vlabs.ac.in/exp/quick-sort/index.html)
 
 ## Module - 1 : Introduction to Design and Analysis of Algorithms (10 Hours)
 - Performance analysis - space, and time complexity
