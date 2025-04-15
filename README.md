@@ -4,9 +4,9 @@
 | :-------------:| :--------: | :--------------: | :----------: |
 | [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/) | lifna.cs@ves.ac.in | [Theory & Lab Syllabus](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/DAA-Theory-Lab.pdf) | [Attendance](https://docs.google.com/spreadsheets/d/1qdbspRNGfbzNHzfXXdMmalw6g8hoVQUyvYxTU68-xjA/edit?usp=sharing) |
 
-## [Design and Analysis of Algorithms Lab Instructions](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab)
+## 1. [Design and Analysis of Algorithms Lab Instructions](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab)
 
-## Evaluation Scheme 
+## 2. Evaluation Scheme 
 
 | No | Rubrics | Marks | Document / Schedule |
 | :--: | ------------------ | :----: |:----------: |
@@ -40,7 +40,9 @@ Continuous Assessment best out 2 of 3 will be considered
 4. [Heap Sort ](https://ds1-iiith.vlabs.ac.in/exp/heap-sort/index.html)
 5. [Quick Sort](https://ds1-iiith.vlabs.ac.in/exp/quick-sort/index.html)
 
-## Module - 1 : Introduction to Design and Analysis of Algorithms (10 Hours) [PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M1_DAA-2024-25.pdf)
+## 3. Module-wise Theory Contents
+
+### Module - 1 : Introduction to Design and Analysis of Algorithms (10 Hours) [PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M1_DAA-2024-25.pdf)
 - Performance analysis - space, and time complexity
 - Growth of function - Big-Oh, Omega & Theta notations
 - Mathematical background for algorithm analysis;
@@ -64,7 +66,7 @@ Continuous Assessment best out 2 of 3 will be considered
 **Quiz:**
 - [Algorithms](https://www.interviewbit.com/daa-mcq/)
 
-## Module - 2: Divide and Conquer Strategy (06 Hours)  [PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M2_DAA.pdf)
+### Module - 2: Divide and Conquer Strategy (06 Hours)  [PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M2_DAA.pdf)
 - General method,
 - Min-Max Algorithm,
 - Merge sort,
@@ -90,7 +92,7 @@ Continuous Assessment best out 2 of 3 will be considered
 - [Binary Search - Quiz 2](https://www.sanfoundry.com/data-structure-questions-answers-uniform-binary-search/)
 - [Starssens Matrix Multiplication](https://www.sanfoundry.com/matrix-multiplication-multiple-choice-questions-answers-mcqs/)
 
-## Module - 3 : Greedy Method Approach (06 Hours) [PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M3_DAA.pdf)
+### Module - 3 : Greedy Method Approach (06 Hours) [PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M3_DAA.pdf)
 - General Method,
 - Single source shortest path: Dijkstra Algorithm,
 - Fractional Knapsack problem,
@@ -116,7 +118,7 @@ Continuous Assessment best out 2 of 3 will be considered
 - [Kruskals Algorithm](https://www.sanfoundry.com/kruskals-algorithm-multiple-choice-questions-answers-mcqs/)
 - [Prims Algorithm](https://www.sanfoundry.com/prims-algorithm-multiple-choice-questions-answers-mcqs/)
 
-## Module - 4 : Dynamic Programming Approach (09 Hours) [PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M4_DAA.pdf)
+### Module - 4 : Dynamic Programming Approach (09 Hours) [PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M4_DAA.pdf)
 - General Method,
 - Multistage graphs,
 - Single source shortest path: Bellman Ford Algorithm,
@@ -134,8 +136,7 @@ Continuous Assessment best out 2 of 3 will be considered
   
 **Quiz :**
 
-
-## Module  - 5 :  Backtracking and Branch and bound (05 Hours)  [PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M5_DAA.pdf)
+### Module  - 5 :  Backtracking and Branch and bound (05 Hours)  [PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M5_DAA.pdf)
 - Backtracking:
   - N-queen problem,
   - Sum of subsets,
@@ -145,10 +146,9 @@ Continuous Assessment best out 2 of 3 will be considered
   - Traveling Salesperson problem.
 
 - Online Resources :
-  
 - Quiz :  Module - 5 Quiz
  
-## Module  - 6 : String Matching Algorithms (03 Hours)  [PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M6_DAA.pdf)
+### Module  - 6 : String Matching Algorithms (03 Hours)  [PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M6_DAA.pdf)
 - Naïve string-matching algorithm,
 - Rabin Karp algorithm,
 - Knuth-Morris-Pratt algorithm
@@ -161,31 +161,31 @@ Continuous Assessment best out 2 of 3 will be considered
 - [Rabin Karp Algorithm](https://www.sanfoundry.com/rabin-karp-algorithm-multiple-choice-questions-answers-mcqs/)
 - 
 
-## Text Books & References :
+## 4. Text Books & References :
 1. [T. H. Cormen, C.E. Leiserson, R. L. Rivest, and C. Stein, “Introduction to algorithms”, 2nd Edition, PHI Publication 2005.](https://drive.google.com/file/d/0B3RHrbxFb7PfYjk4ZG01Z3lrbnc/view?resourcekey=0-aHyhqxUeXCNvRK3_QfNurg)
 2. Ellis Horowitz, Sartaj Sahni, S. Rajsekaran. “Fundamentals of computer algorithms',' University Press.
 3. Sanjoy Dasgupta, Christos Papadimitriou, Umesh Vazirani, “Algorithms”, Tata McGraw Hill Edition.
 4. S. K. Basu, “Design Methods and Analysis of Algorithm”, PHI.
 5. J. Kleinberg and E. Tardos, Algorithm Design, Pearson International Edition, 2005.
    
-## Online Resources 
+## 5. Online Resources 
 1. https://nptel.ac.in/courses/106/106/106106131/
 2. https://swayam.gov.in/nd1_noc19_cs47/preview
 3. https://www.coursera.org/specializations/algorithms
 4. https://www.mooc-list.com/tags/algorithms
 5. [Stanford University](https://web.stanford.edu/class/archive/cs/cs161/cs161.1176/Lectures/)
-## AI Tools
+## 6. AI Tools
 5. [Algorithmia:](https://algorithmia.com/)
 6. [TensorFlow:](https://www.tensorflow.org/)
 7. [VisuAlgo:](https://visualgo.net/)
 8. [Algorithm Visualizer:](https://algorithm-visualizer.org/)
 9. [Pathfinding Visualizer:](https://bengavrilov.github.io/Path-Finding-Visualizer/)
-## Industry articles
+## 7. Industry articles
 10. [Artificial intelligence (AI) algorithms: a complete overview](https://www.tableau.com/data-insights/ai/algorithms)
 11. [What Is an Algorithm?](http://bit.ly/3RndUg6)
 12. [Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms](https://bit.ly/4b1Rw31)
 13. [Code-Dependent: Pros and Cons of the Algorithm Age :](https://pewrsr.ch/3Ro3P2H)
-## Case Studies
+## 8. Case Studies
 14. [A Case Study in Algorithm Analysis](https://ics.uci.edu/~goodrich/teach/cs161/notes/MaxSubarray.pdf)
 15. [An Introduction to the Analysis of Algorithms](https://sedgewick.io/books/analysis-of-algorithms/)
 16. [Parallel MCMC Algorithms: Theoretical Foundations, Algorithm Design, Case Studies](https://ar5iv.org/abs/2209.04750)
