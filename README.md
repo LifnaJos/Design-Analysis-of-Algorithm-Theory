@@ -133,7 +133,7 @@ Continuous Assessment best out 2 of 3 will be considered
   - 15 Puzzle problem,
   - Traveling Salesperson problem.
 
-- [Theory-PPT]
+**[Theory-PPT](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M5_DAA.pdf)**
   
 - Online Resources :
   
